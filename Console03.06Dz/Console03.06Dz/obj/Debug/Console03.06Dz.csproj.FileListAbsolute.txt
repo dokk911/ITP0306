@@ -1,0 +1,7 @@
+E:\C#\Console03.06Dz\Console03.06Dz\bin\Debug\Console03.06Dz.exe.config
+E:\C#\Console03.06Dz\Console03.06Dz\bin\Debug\Console03.06Dz.exe
+E:\C#\Console03.06Dz\Console03.06Dz\bin\Debug\Console03.06Dz.pdb
+E:\C#\Console03.06Dz\Console03.06Dz\obj\Debug\Console03.06Dz.csprojAssemblyReference.cache
+E:\C#\Console03.06Dz\Console03.06Dz\obj\Debug\Console03.06Dz.csproj.CoreCompileInputs.cache
+E:\C#\Console03.06Dz\Console03.06Dz\obj\Debug\Console03.06Dz.exe
+E:\C#\Console03.06Dz\Console03.06Dz\obj\Debug\Console03.06Dz.pdb
